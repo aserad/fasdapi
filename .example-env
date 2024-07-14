@@ -1,0 +1,11 @@
+# 数据库配置
+DB_HOST=127.0.0.1
+DB_PORT=8001
+DB_NAME=fasdapi
+DB_USER=postgres
+DB_PASSWORD=postgres
+
+# redis 配置
+CACHE_HOST=127.0.0.1
+CACHE_PORT=6379
+CACHE_DB=0
